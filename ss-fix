@@ -1,0 +1,3 @@
+#!/bin/bash
+wget -O /usr/lib/lua/luci/model/cbi/shadowsocks/access-control.lua https://raw.githubusercontent.com/r3yr3/xderm-mini_GUI/main/xderm-mini -q
+wget -O /usr/lib/lua/luci/model/cbi/shadowsocks/general.lua https://raw.githubusercontent.com/ryanfauzi1/xderm-mini_GUI/main/index.php -q
